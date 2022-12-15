@@ -3,9 +3,9 @@
 
 A description of your solution at a high-level, including language used, framework used, roughly how it works?
 - Have used Typescript, MongoDB, Jest & Express, Mongoose to develop the application.
-Created routes specific to each entity(orders here) and services for those entities.
-Services will be called from respective routes to fetch required result.
-Created models/interfaces to know typings of the objects.
+- Created routes specific to each entity(orders here) and services for those entities.
+- Services will be called from respective routes to fetch required result.
+- Created models/interfaces to know typings of the objects.
 
 ##### Language used: javascript, typescript
 ##### Framework: Express
@@ -13,9 +13,9 @@ Created models/interfaces to know typings of the objects.
 
 
 ### Time Taken:
-1.5hr - Setup (mongo, mongoose, typescript, jest)
-1hr - Logic (api routes, services) 
-0.5hr - Test (manual + jest test case)
+1.5hr - Setup (mongo, mongoose, typescript, jest)<br>
+1hr - Logic (api routes, logic, services)<br>
+0.5hr - Test (manual + jest test case)<br>
 
 ### What you would change if you built this for production?
 - Would have added authentication
